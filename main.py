@@ -2,7 +2,7 @@ import requests
 
 from send_email import send_email
 
-topic = "windows"
+topic = "cybersecurity"
 
 api = "4de8df5017304a59b879d6986258c027"
 url = "https://newsapi.org/v2/everything?" \
